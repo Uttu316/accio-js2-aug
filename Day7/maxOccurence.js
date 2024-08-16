@@ -41,5 +41,6 @@ function maximum_occurrence(arr, n) {
   }
 
   // console.log(maxPos)
+
   return maxPos;
 }
